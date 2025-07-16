@@ -30,6 +30,6 @@ This repo includes the following key directories:
 
 
 ## 📬 Contact
-+91 7876825980
-Curious to collaborate or review one of these projects in more detail? Feel free to connect via GitHub or LinkedIn!
+- +91 7876825980
+- Curious to collaborate or review one of these projects in more detail? Feel free to connect via GitHub or LinkedIn!
  
