@@ -28,14 +28,8 @@ This repo includes the following key directories:
 - 🔧 Debugging workflow with VS Code shortcuts and GitHub version control
 - 🔄 Transitioning from SQLite to MySQL for scalable projects
 
-## 🔗 Related Repositories
-
-Plans to expand include standalone repos for:
-- [GeoAPI Project](#)
-- [SQL Schema Challenges](#)
-- [JSON Real-World Parsing](#)
-- [Python Mini Projects](#)
 
 ## 📬 Contact
-
++91 7876825980
 Curious to collaborate or review one of these projects in more detail? Feel free to connect via GitHub or LinkedIn!
+ 
